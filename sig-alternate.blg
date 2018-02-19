@@ -1,0 +1,110 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sig-alternate.aux
+The style file: abbrv.bst
+Database file #1: sigproc.bib
+Warning--empty title in salas:one
+Warning--empty publisher in salas:one
+Warning--empty year in salas:one
+Warning--empty title in salas:two
+Warning--empty publisher in salas:two
+Warning--empty year in salas:two
+Warning--empty title in salas:twentyone
+Warning--empty publisher in salas:twentyone
+Warning--empty year in salas:twentyone
+Warning--empty title in salas:six
+Warning--empty publisher in salas:six
+Warning--empty year in salas:six
+Warning--empty title in salas:three
+Warning--empty publisher in salas:three
+Warning--empty year in salas:three
+Warning--empty title in salas:fifteen
+Warning--empty publisher in salas:fifteen
+Warning--empty year in salas:fifteen
+Warning--empty title in salas:nine
+Warning--empty publisher in salas:nine
+Warning--empty year in salas:nine
+Warning--empty title in salas:twelve
+Warning--empty publisher in salas:twelve
+Warning--empty year in salas:twelve
+Warning--empty title in salas:twenty
+Warning--empty publisher in salas:twenty
+Warning--empty year in salas:twenty
+Warning--empty title in salas:sixteen
+Warning--empty publisher in salas:sixteen
+Warning--empty year in salas:sixteen
+Warning--empty title in salas:eight
+Warning--empty publisher in salas:eight
+Warning--empty year in salas:eight
+Warning--empty title in salas:seven
+Warning--empty publisher in salas:seven
+Warning--empty year in salas:seven
+Warning--empty title in salas:ten
+Warning--empty publisher in salas:ten
+Warning--empty year in salas:ten
+Warning--empty title in salas:thirteen
+Warning--empty publisher in salas:thirteen
+Warning--empty year in salas:thirteen
+Warning--empty title in salas:nineteen
+Warning--empty publisher in salas:nineteen
+Warning--empty year in salas:nineteen
+Warning--empty title in salas:four
+Warning--empty publisher in salas:four
+Warning--empty year in salas:four
+Warning--empty title in salas:eighteen
+Warning--empty publisher in salas:eighteen
+Warning--empty year in salas:eighteen
+Warning--empty title in salas:five
+Warning--empty publisher in salas:five
+Warning--empty year in salas:five
+Warning--empty title in salas:seventeen
+Warning--empty publisher in salas:seventeen
+Warning--empty year in salas:seventeen
+Warning--empty title in salas:fourteen
+Warning--empty publisher in salas:fourteen
+Warning--empty year in salas:fourteen
+Warning--empty title in salas:eleven
+Warning--empty publisher in salas:eleven
+Warning--empty year in salas:eleven
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            519 strings with 3995 characters,
+and the built_in function-call counts, 5104 in all, are:
+= -- 357
+> -- 273
+< -- 0
++ -- 105
+- -- 84
+* -- 380
+:= -- 830
+add.period$ -- 21
+call.type$ -- 21
+change.case$ -- 84
+chr.to.int$ -- 0
+cite$ -- 84
+duplicate$ -- 252
+empty$ -- 463
+format.name$ -- 84
+if$ -- 1009
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 42
+newline$ -- 66
+num.names$ -- 42
+pop$ -- 315
+preamble$ -- 1
+purify$ -- 84
+quote$ -- 0
+skip$ -- 104
+stack$ -- 0
+substring$ -- 105
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 42
+warning$ -- 63
+while$ -- 42
+width$ -- 23
+write$ -- 107
+(There were 63 warnings)

@@ -1,0 +1,680 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.11)  19 FEB 2018 15:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**diff.tex
+(./diff.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(./sig-alternate.cls
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count79
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count80
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count81
+\leftroot@=\count82
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count83
+\DOTSCASE@=\count84
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count85
+\c@MaxMatrixCols=\count86
+\dotsspace@=\muskip10
+\c@parentequation=\count87
+\dspbrk@lvl=\count88
+\tag@help=\toks17
+\row@=\count89
+\column@=\count90
+\maxfields@=\count91
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+Document Class 'sig-alternate' <22nd. April '09>. Modified by G.K.M. Tobin/Gerr
+y Murray
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions/technicalities to Gerry Murray -- murray@hq.ac
+m.org ******
+Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
+
+\footheight=\dimen115
+\@maxsep=\dimen116
+\@dblmaxsep=\dimen117
+\aucount=\count92
+\originalaucount=\count93
+\auwidth=\dimen118
+\auskip=\dimen119
+\auskipcount=\count94
+\auskip=\dimen120
+\allauboxes=\dimen121
+\addauthors=\toks21
+\addauflag=\count95
+\subtitletext=\toks22
+\savesection=\count96
+\sectioncntr=\count97
+\c@figure=\count98
+\c@table=\count99
+\titleboxnotes=\toks23
+\titleboxnoteflag=\count100
+Document Class: sig-alternate 2009/04/22 - V2.4 - based on acmproc.cls V1.3 <No
+v. 30 '99>
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+\@acmtitlebox=\box28
+\titlenotecount=\count101
+\tntoks=\toks24
+\tntokstwo=\toks25
+\tntoksthree=\toks26
+\tntoksfour=\toks27
+\tntoksfive=\toks28
+\catcount=\count102
+\copyrightnotice=\toks29
+\conf=\toks30
+\confinfo=\toks31
+\c@part=\count103
+\c@section=\count104
+\c@subsection=\count105
+\c@subsubsection=\count106
+\c@paragraph=\count107
+
+Using 'Abbrev' bibliography style
+LaTeX Info: Redefining \cite on input line 1211.
+\bibindent=\dimen122
+\colcntr=\count108
+\saveb@x=\box29
+\copyrtyr=\toks32
+\acmcopyr=\toks33
+\boilerplate=\toks34
+\copyrightetc=\toks35
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/usr/share/texmf/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for T1+aess on input line 357.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/ae/t1aess.fd
+File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))) (./kbordermatrix.sty
+Package: kbordermatrix 2011/09/21 Bordered matrix with brackets
+\kbcolsep=\skip44
+\kbrowsep=\skip45
+\br@kwd=\skip46
+\k@bordht=\skip47
+) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count109
+\calc@Bcount=\count110
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count111
+\calc@Cskip=\skip50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen125
+\AM@pageheight=\dimen126
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box30
+\AM@toc@title=\toks36
+\c@AM@survey=\count112
+\AM@templatesizebox=\box31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/refstyle/refstyle.sty
+Package: refstyle 2010/11/02 v0.5 Reference formatting (DNJ Els)
+Package refstyle Info: Config file refstyle.cfg used on input line 322.
+
+(/usr/share/texlive/texmf-dist/tex/latex/refstyle/refstyle.cfg
+File: refstyle.cfg 2010/11/02 0.5 Configuration file for refstyle (DNJ Els)
+Package refstyle Info: New reference template \newref{part} on input line 468.
+Package refstyle Info: \partkey created on input line 468.
+Package refstyle Info: \partlabel created on input line 468.
+Package refstyle Info: \partref created on input line 468.
+Package refstyle Info: \Partref created on input line 468.
+Package refstyle Info: \partrangeref created on input line 468.
+Package refstyle Info: \Partrangeref created on input line 468.
+Package refstyle Info: \partpageref created on input line 468.
+Package refstyle Info: New reference template \newref{chap} on input line 501.
+Package refstyle Info: \chapkey created on input line 501.
+Package refstyle Info: \chaplabel created on input line 501.
+Package refstyle Info: \chapref created on input line 501.
+Package refstyle Info: \Chapref created on input line 501.
+Package refstyle Info: \chaprangeref created on input line 501.
+Package refstyle Info: \Chaprangeref created on input line 501.
+Package refstyle Info: \chappageref created on input line 501.
+Package refstyle Info: New reference template \newref{sec} on input line 511.
+Package refstyle Info: \seckey created on input line 511.
+Package refstyle Info: \seclabel created on input line 511.
+Package refstyle Info: \secref created on input line 511.
+Package refstyle Info: \Secref created on input line 511.
+Package refstyle Info: \secrangeref created on input line 511.
+Package refstyle Info: \Secrangeref created on input line 511.
+Package refstyle Info: \secpageref created on input line 511.
+Package refstyle Info: New reference template \newref{eq} on input line 526.
+Package refstyle Info: \eqkey created on input line 526.
+Package refstyle Info: \eqlabel created on input line 526.
+Package refstyle Info: \eqref created on input line 526.
+Package refstyle Info: \Eqref created on input line 526.
+Package refstyle Info: \eqrangeref created on input line 526.
+Package refstyle Info: \Eqrangeref created on input line 526.
+Package refstyle Info: \eqpageref created on input line 526.
+Package refstyle Info: New reference template \newref{fig} on input line 544.
+Package refstyle Info: \figkey created on input line 544.
+Package refstyle Info: \figlabel created on input line 544.
+Package refstyle Info: \figref created on input line 544.
+Package refstyle Info: \Figref created on input line 544.
+Package refstyle Info: \figrangeref created on input line 544.
+Package refstyle Info: \Figrangeref created on input line 544.
+Package refstyle Info: \figpageref created on input line 544.
+Package refstyle Info: New reference template \newref{tab} on input line 553.
+Package refstyle Info: \tabkey created on input line 553.
+Package refstyle Info: \tablabel created on input line 553.
+Package refstyle Info: \tabref created on input line 553.
+Package refstyle Info: \Tabref created on input line 553.
+Package refstyle Info: \tabrangeref created on input line 553.
+Package refstyle Info: \Tabrangeref created on input line 553.
+Package refstyle Info: \tabpageref created on input line 553.
+Package refstyle Info: New reference template \newref{fn} on input line 568.
+Package refstyle Info: \fnkey created on input line 568.
+Package refstyle Info: \fnlabel created on input line 568.
+Package refstyle Info: \fnref created on input line 568.
+Package refstyle Info: \Fnref created on input line 568.
+Package refstyle Info: \fnrangeref created on input line 568.
+Package refstyle Info: \Fnrangeref created on input line 568.
+Package refstyle Info: \fnpageref created on input line 568.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
+)
+\XKV@depth=\count113
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box32
+)
+\tc@llx=\dimen127
+\tc@lly=\dimen128
+\tc@urx=\dimen129
+\tc@ury=\dimen130
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen131
+\adjbox@Height=\dimen132
+\adjbox@Depth=\dimen133
+\adjbox@Totalheight=\dimen134
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count114
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box33
+\sift@deathcycles=\count115
+\@vwid@loff=\dimen135
+\@vwid@roff=\dimen136
+))
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box34
+\UL@hyphenbox=\box35
+\UL@skip=\skip51
+\UL@hook=\toks39
+\UL@height=\dimen137
+\UL@pe=\count116
+\UL@pixel=\dimen138
+\ULC@box=\box36
+Package: ulem 2012/05/18
+\ULdepth=\dimen139
+) (./diff.aux
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+)
+\openout1 = `diff.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 33.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 33.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 33.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen140
+\scratchbox=\box37
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen141
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks41
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box38
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 110--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--139
+
+ []
+
+<one.pdf, id=1, 235.1987pt x 137.94334pt>
+File: one.pdf Graphic file (type pdf)
+ <use one.pdf>
+Package pdftex.def Info: one.pdf used on input line 185.
+(pdftex.def)             Requested size: 235.19812pt x 137.943pt.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./one.pdf>] <two.pdf, id=80, 245.12277pt x 176.64696pt>
+File: two.pdf Graphic file (type pdf)
+ <use two.pdf>
+Package pdftex.def Info: two.pdf used on input line 358.
+(pdftex.def)             Requested size: 245.12216pt x 176.64651pt.
+
+Overfull \hbox (87.87521pt too wide) in paragraph at lines 358--363
+\T1/aer/m/n/9 the de-sign prin-ci-ples [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (6.72833pt too wide) in paragraph at lines 388--395
+\T1/aer/m/n/9 de-ci-sions in-clude shoot-ing an-gle, dis-tance from the stage,
+ []
+
+[3 <./two.pdf>]
+Overfull \hbox (2.36536pt too wide) in paragraph at lines 412--417
+\T1/aer/m/n/9 The pro-posed frame-work con-sists of one of-fline learn-ing phas
+e
+ []
+
+[4] <three.pdf, id=132, 497.19151pt x 210.389pt>
+File: three.pdf Graphic file (type pdf)
+ <use three.pdf>
+Package pdftex.def Info: three.pdf used on input line 503.
+(pdftex.def)             Requested size: 504.0pt x 213.26808pt.
+LaTeX Font Info:    Try loading font information for T3+aer on input line 582.
+LaTeX Font Info:    No file T3aer.fd. on input line 582.
+
+
+LaTeX Font Warning: Font shape `T3/aer/m/n' undefined
+(Font)              using `T3/cmr/m/n' instead
+(Font)              for symbol `textscr' on input line 582.
+
+
+Overfull \hbox (11.25069pt too wide) detected at line 619
+[][]
+ []
+
+[5]
+Overfull \hbox (1.91573pt too wide) in paragraph at lines 619--629
+\T1/aer/m/n/9 We have care-fully se-lected five videos (live group dances
+ []
+
+
+Overfull \hbox (4.65175pt too wide) in paragraph at lines 630--641
+\T1/aer/m/n/9 should com-ply with the type of per-for-mance for mashup.
+ []
+
+[6 <./three.pdf>] <four.pdf, id=230, 246.11449pt x 252.06973pt>
+File: four.pdf Graphic file (type pdf)
+ <use four.pdf>
+Package pdftex.def Info: four.pdf used on input line 705.
+(pdftex.def)             Requested size: 252.0pt x 258.10005pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 705--708
+[][]
+ []
+
+<five.pdf, id=231, 474.36723pt x 318.56013pt>
+File: five.pdf Graphic file (type pdf)
+ <use five.pdf>
+Package pdftex.def Info: five.pdf used on input line 735.
+(pdftex.def)             Requested size: 504.02118pt x 284.54811pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 743.
+
+
+Overfull \hbox (40.82307pt too wide) in paragraph at lines 747--754
+ [][] 
+ []
+
+[7 <./four.pdf>]
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 832.
+
+
+Overfull \hbox (32.02896pt too wide) in paragraph at lines 836--844
+ [][] 
+ []
+
+[8 <./five.pdf>] <last.pdf, id=353, 232.22159pt x 375.12648pt>
+File: last.pdf Graphic file (type pdf)
+ <use last.pdf>
+Package pdftex.def Info: last.pdf used on input line 875.
+(pdftex.def)             Requested size: 201.59692pt x 325.65907pt.
+
+Overfull \hbox (117.61859pt too wide) in paragraph at lines 862--876
+\T1/aer/m/n/9 frames for each per-for-mance. [] 
+ []
+
+[9 <./last.pdf>] (./diff.bbl [10]) [11
+
+] (./diff.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6312 strings out of 493029
+ 84494 string characters out of 6136234
+ 172166 words of memory out of 5000000
+ 9661 multiletter control sequences out of 15000+600000
+ 55944 words of font info for 75 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,14n,39p,464b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy6.pfb></usr/share/tex
+mf/fonts/type1/fkr/tipa/tipa9.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/u
+hvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on diff.pdf (11 pages, 2845262 bytes).
+PDF statistics:
+ 461 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
